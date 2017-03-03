@@ -22,14 +22,12 @@ Author
 Nicolas Chourrout : `website`_
 <nchourrout [at] gmail [dot] com> 
 
-.. _website: http://nchourrout.fr
+.. _website: http://chourrout.com
 
 
 More information
 ================
 
 * the source code is `hosted in GitHub`_
-* a `demo`_ is available
 
 .. _hosted in GitHub: http://github.com/nchourrout/GD-Mirror
-.. _demo: http://www.sparklingcode.com/demo/gd/wetfloor_mirroreffect.php
